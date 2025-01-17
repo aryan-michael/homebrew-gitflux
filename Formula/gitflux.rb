@@ -1,8 +1,8 @@
 class Gitflux < Formula
   desc "Manage multiple git accounts with ease"
   homepage "https://github.com/aryan-michael/gitflux-base"
-  url "https://github.com/aryan-michael/gitflux-base/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "4618c9a6a82b07ea8ed73dee76b8c107a63fd8dfa00d584ce62f7c865588a6a0"
+  url "https://github.com/aryan-michael/gitflux-base/archive/refs/tags/v2.0.1.tar.gz"
+  sha256 "a28df9118d79f19861b51ec1ce1c88b97dbd06fcf55404acbc90de5ad7e329e6"
   license "MIT"
 
   def install
